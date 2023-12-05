@@ -1,0 +1,2 @@
+# pyt
+esercizio python 
